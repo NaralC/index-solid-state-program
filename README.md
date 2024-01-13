@@ -1,1 +1,1 @@
-"export default function App(): JSX.Element {\n  return <h1 className=\"bg-emerald-500\">placeholder arsa123123!!!</h1>\n}\n"
+"import \"./styles.css\";\n\ndocument.getElementById(\"app\").innerHTML = `\n<h1>Hello world</h1>\n`;\n"
