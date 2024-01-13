@@ -1,1 +1,1 @@
-"import \"./styles.css\";\n\ndocument.getElementById(\"app\").innerHTML = `\n<h1>Hello world</h1>\n`;\n"
+{"code":{"typescript":{"value":"type Human = {\r\n    height: number;\r\n    weight: number;\r\n    age: number;\r\n}\r\n\r\nconst Naral: Human = {\r\n    age: 99,\r\n    height: 99,\r\n    weight: 99\r\n}"},"python":{"value":"PYYYYY"},"c#":{"value":"see hashtag"}},"language":"typescript"}
