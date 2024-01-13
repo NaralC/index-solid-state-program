@@ -1,1 +1,1 @@
-{"code":{"typescript":{"value":"type Human = {\r\n    height: number;\r\n    weight: number;\r\n    age: number;\r\n}\r\n"},"python":{"value":"PYYYYY"},"c#":{"value":"see hashtag"}},"language":"typescript"}
+{"code":{},"language":"typescript"}
