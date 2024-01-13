@@ -1,1 +1,1 @@
-{"code":{},"language":"typescript"}
+"export default function App(): JSX.Element {\n  return <h1 className=\"bg-red-500\">placeholder arsa123123!!!</h1>\n}\n"
